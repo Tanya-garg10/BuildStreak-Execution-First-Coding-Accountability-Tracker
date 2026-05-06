@@ -7,8 +7,6 @@ BuildStreak is a high-performance productivity suite designed for developers who
 ![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind-v4-38B2AC?style=for-the-badge&logo=tailwind-css)
 
----
-
 ## 🚀 Key Features
 
 ### 🏆 Gamified Progress
@@ -30,8 +28,6 @@ BuildStreak is a high-performance productivity suite designed for developers who
 - **Theme Accents**: Choose your vibe with **Blue, Purple, or Green** theme colors.
 - **Custom Profile**: Set your display name for a personalized experience.
 
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 19, Vite
@@ -39,8 +35,6 @@ BuildStreak is a high-performance productivity suite designed for developers who
 - **Icons**: Lucide React
 - **State**: Persistent LocalStorage (Zero backend required for local use)
 - **Date Handling**: date-fns
-
----
 
 ## 🏁 Getting Started
 
@@ -64,17 +58,10 @@ BuildStreak is a high-performance productivity suite designed for developers who
    npm run build
    ```
 
----
-
-## 📸 Screenshots (Coming Soon)
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to make BuildStreak even better.
 
 ## 📄 License
 This project is open-source and available under the MIT License.
 
----
 **Build something every day. Stay accountable. Level up.** 🚀🦾
